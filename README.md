@@ -1,4 +1,4 @@
-# [Project Name: e.g., SFML Pong]
+# [C++ Pong]
 
 ![Gameplay Screenshot](path/to/screenshot.png)
 ## 📝 Description
