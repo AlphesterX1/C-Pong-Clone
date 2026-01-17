@@ -1,12 +1,16 @@
-# [C++ Pong]
+# C++ Pong
 
-![Gameplay Screenshot](path/to/screenshot.png)
+
+![Gameplay Screenshot](assets/Gif.gif)
+
 ## 📝 Description
 A classic recreation of the arcade game **Pong**, built from scratch using **C++** and the **SFML** (Simple and Fast Multimedia Library). This project demonstrates the fundamentals of 2D game development, including collision detection, game loops, and basic physics.
 
 ## ✨ Features
-* **Classic Gameplay:** Two paddles, one ball, and a scoring system.
+![Gameplay Screenshot](assets/Pic.png)
+* **Main Menu:** Allows you to navigate between 1P and 2P mode.
 * **Single Player / Two Player:** Single Player mode has an AI as Enemy, Multiplayer lets you play with another one of your friend
+* **Classic Gameplay:** Two paddles, one ball, and a scoring system.
 * **Smooth Rendering:** Runs at 60 FPS using SFML's graphics module.
 
 ## 🎮 Controls
